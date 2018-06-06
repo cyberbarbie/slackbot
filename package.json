@@ -1,0 +1,15 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "A cute & nerdy slackbot that tells random jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tae'lur Alexis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
